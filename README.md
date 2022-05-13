@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **AWS Cloud Architecture**
+- 🌱 I’m currently learning **Cloud Architecture** and improving my **Coding skills**
 
 - 👯 I’m looking to collaborate on **any Tech Projects**
 
 - 📫 How to reach me **hetvisolanki84@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z7W-YeZJqm6eGcB1LRhT3wF58zARy6Ak/view?usp=sharing](https://drive.google.com/file/d/1Z7W-YeZJqm6eGcB1LRhT3wF58zARy6Ak/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1qLl3518dQ0mN5zkH3KhjJ3cGEsKjbSag/view?usp=sharing](https://drive.google.com/file/d/1qLl3518dQ0mN5zkH3KhjJ3cGEsKjbSag/view?usp=sharing)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
