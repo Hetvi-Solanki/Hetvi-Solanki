@@ -45,4 +45,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetvi-solanki&show_icons=true&locale=en" alt="hetvi-solanki" /></p>
 <br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetvi-solanki&show_icons=true&locale=en&layout=compact" alt="hetvi-solanki" /></p>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetvi-solanki&" alt="hetvi-solanki" /></p>
