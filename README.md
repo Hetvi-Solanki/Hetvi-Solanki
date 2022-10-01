@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetvi-solanki&label=Profile%20views&color=0e75b6&style=flat" alt="hetvi-solanki" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **Cloud Architecture** and improving my **Coding skills**
+- 🌱 I’m currently learning **Node JS** and improving my **Coding skills**
 
 - 👯 I’m looking to collaborate on **any Tech Projects**
 
