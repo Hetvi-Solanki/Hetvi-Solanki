@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetvi-solanki&label=Profile%20views&color=0e75b6&style=flat" alt="hetvi-solanki" /> </p>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **.NET**
 
-- 🌱 I’m currently learning **Node JS** and improving my **Coding skills**
+- 🌱 I’m currently learning **Machine Learning** and improving my **Coding skills**
 
-- 👯 I’m looking to collaborate on **any Tech Projects**
+- 👯 I’m looking to collaborate on **ML Projects**
 
 - 📫 How to reach me **hetvisolanki84@gmail.com**
 
