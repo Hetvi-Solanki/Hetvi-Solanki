@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hetvisolanki84@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1qLl3518dQ0mN5zkH3KhjJ3cGEsKjbSag/view?usp=sharing](https://drive.google.com/file/d/1qLl3518dQ0mN5zkH3KhjJ3cGEsKjbSag/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1s6bZ4eOZvBvgjoNPOjeGUBt8KM2f-YcQ/view?usp=sharing](https://drive.google.com/file/d/1s6bZ4eOZvBvgjoNPOjeGUBt8KM2f-YcQ/view?usp=sharing)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
