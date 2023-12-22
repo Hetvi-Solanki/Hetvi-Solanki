@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **.NET**
 
-- 🌱 I’m currently learning **Machine Learning** and improving my **Coding skills**
+- 🌱 I’m currently improving my **Coding skills**
 
-- 👯 I’m looking to collaborate on **ML Projects**
+- 👯 I’m looking to collaborate on **Tech Projects**
 
 - 📫 How to reach me **hetvisolanki84@gmail.com**
 
