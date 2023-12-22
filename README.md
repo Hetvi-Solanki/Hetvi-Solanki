@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetvi-solanki&label=Profile%20views&color=0e75b6&style=flat" alt="hetvi-solanki" /> </p>
 
-- 🔭 I’m currently working on **.NET**
+- 🔭 I’m currently working as a **.NET Developer**
 
 - 🌱 I’m currently improving my **Coding skills**
 
